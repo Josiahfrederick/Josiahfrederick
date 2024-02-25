@@ -6,6 +6,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Josiahfrederick/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Josiahfrederick/ticket-lifecycle)
 
+<h1>Explanation
+
+- There are some issues I have to say, as I was unable to use azure due to me not having the funds or a card of my own to use as a form of payment to use azure 
+
 
 
 
