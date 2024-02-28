@@ -9,9 +9,14 @@
 
 <h2>Beginner Programmer </h2>
 
-- As a Beginner at programming I have the goal of being a great game developer and with experience in the working field I will be able to pursue my goal in the game development industry. I hope I can work with others to help me pursue my goal
+- As a Beginner at programming I have the goal of being a great game developer and with experience in the working field I will be able to pursue my goal in the game development industry. I hope I can work with others to help me pursue my goal.
 
-<h1>Explanation</h1>
+
+<h2> Experience </h2>
+With the experience I have gain from course career,I had gain new knowledge and found accessible information for me to use to open up more opportunities for me, even though some information my be difficult for me to get I will try my best at what am good at.
+
+
+<h2>Explanation</h2>
 
 - There are some issues I have to say, as I was unable to use azure due to me not having the funds or a card of my own to use as a form of payment to use azure.
 
